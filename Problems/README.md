@@ -26,9 +26,9 @@ Goal Sheet Number | Topic(s) Covered
 [01](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, I/O, Math, Strings
 [02](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet02.md) | Branching, Looping, Functions
 [03](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet03.md) | Lists, Dictionaries, Strings, Regular Expressions, Files
-[04](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet04.md) | Modules, CSV data, (JSON, WebScraping)
+[04](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet04.md) | Modules, CSV data, (JSON, WebScraping)
 [05](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up (no mustard)
-[06](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet06.md) | JSON, WebScraping
+[06](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet06.md) | JSON, WebScraping
 [07](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet (Work on big project)
 [08](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
 [09](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
