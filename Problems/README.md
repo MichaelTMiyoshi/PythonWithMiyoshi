@@ -23,15 +23,15 @@ Below are the goal sheets with their associated descriptions (including the catc
 
 Goal Sheet Number | Topic(s) Covered
 ----------------- | ----------------
-[01](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, Binary numbers, Variables and Constants
-[02](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet02.md) | Input, Math
-[03](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet03.md) | Branching
-[04](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet04.md) | Looping
+[01](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet01.md) | PBJ, Hello World, I/O, Math, Strings
+[02](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet02.md) | Branching, Looping, Functions
+[03](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet03.md) | Lists, Dictionaries, Strings, Regular Expressions, Files
+[04](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet04.md) | Modules, CSV data, (JSON, WebScraping)
 [05](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up (no mustard)
-[06](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet06.md) | Functions
-[07](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet07.md) | Advanced Data Types - enum, struct
-[08](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
-[09](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up
+[06](https://github.com/MichaelTMiyoshi/PythongWithMiyoshi/blob/master/Problems/GoalSheet06.md) | JSON, WebScraping
+[07](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet (Work on big project)
+[08](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
+[09](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
 
 ### Notes
 * The Advanced Goal Sheet is simply a tool I use for my advanced students to tell me what progress they are making toward finishing their games or apps.  My intro students (who use my book and perhaps this repo) create their own games based on the Game Engine Tutorial.  Those six weeks are what many of them have longed for from day one.  But by the time they get there, they realize that they had so much to learn along the way.
