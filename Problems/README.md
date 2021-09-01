@@ -40,4 +40,4 @@ Goal Sheet Number | Topic(s) Covered
 
 * I am not sure that there are any new computer programming problems under the sun.  I do not know if you can copyright simple programming problems, and I do not claim to have any exclusive rights to even the problems that I think I came up with on my own.  I am sure most of the problems I list in this repo came from other sources in one form or another.  If I have infringed upon anybody's copyright, please let me know so that I might correct the oversight.
 
-* One last thing about this particular set of problems.  The problems (and thus the goal sheets) are probably going to be fluid in the beginning.  So for now (as of September 01, 2021), just look at the goal sheet you are currently working on.
+* One last thing about this particular set of problems.  The problems (and thus the goal sheets) are probably going to be fluid in the beginning.  So for now (as of September 01, 2021), just look at the goal sheet you are currently working on.  (And if you look, you will see that the goal sheets are not complete.  Yet.)
