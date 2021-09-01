@@ -4,7 +4,7 @@
 
 Some problem
 
-**Problem GS4-2 (CSV data)**
+**Problem GS04-02 (CSV data)**
 
 Create a comma-delimited file with an int, a float, a character array (no spaces), and a character (in that order) on each of 10 rows.  Write a program to get in the data and then output it into a tab-delimited file.  (Does this look familiar?  This time, make sure to use the CSV module.)  You may use the data below as the data for your file:
 
@@ -21,18 +21,18 @@ Create a comma-delimited file with an int, a float, a character array (no spaces
 10,11.12,present,z
 ```
 
-**Problem GS4-3 (JSON (and other) data)**
+**Problem GS04-03 (JSON (and other) data)**
 
 Some Problem
 
-**Problem GS4-4 (web scraping)**
+**Problem GS04-04 (web scraping)**
 
 Some problem
 
-**Problem GS4-5 ()**
+**Problem GS04-05 ()**
 
 Some problem
 
-**Problem GS4-6 ()**
+**Problem GS04-06 ()**
 
 Some bigger picture problem that gets added to with each goal sheet until it is completed.
