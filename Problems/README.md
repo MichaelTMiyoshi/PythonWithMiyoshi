@@ -29,9 +29,9 @@ Goal Sheet Number | Topic(s) Covered
 [04](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet04.md) | Modules, CSV data, (JSON, WebScraping)
 [05](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Catch up (no mustard)
 [06](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet06.md) | JSON, WebScraping
-[07](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet (Work on big project)
-[08](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
-[09](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/master/Problems/GoalSheet05.md) | Advanced Goal Sheet
+[07](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Documents/GoalsSheetAdvanced.docx) | Advanced Goal Sheet (Work on big project)
+[08](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Documents/GoalsSheetAdvanced.docx) | Advanced Goal Sheet
+[09](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Documents/GoalsSheetAdvanced.docx) | Advanced Goal Sheet
 
 ### Notes
 * The Advanced Goal Sheet is simply a tool I use for my advanced students to tell me what progress they are making toward finishing their games or apps.  My intro students (who use my book and perhaps this repo) create their own games based on the Game Engine Tutorial.  Those six weeks are what many of them have longed for from day one.  But by the time they get there, they realize that they had so much to learn along the way.
