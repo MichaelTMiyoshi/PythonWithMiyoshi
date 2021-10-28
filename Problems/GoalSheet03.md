@@ -10,7 +10,7 @@ Create two lists with at least 20 items in each of them.  (The lists must be the
 
 **Problem GS03-03 (Strings and Regular expressions)**
 
-Some Problem
+Create a program that gets dates from the user.  The program should make sure that the date format is of the form mm/dd/yyyy, that is month first with two digits (a leading zero for January through September), followed by a two-digit day, followed by the year with four digits.  The month, day, and year should each be separated by a slash or some other character designated by you.  Use a regular expression to verify the date before putting it into a list of dates.  Make the program loop to get dates and some numeric data that will be the keys and values of a dictionary.  Loop until the user is finished inputting data.
 
 **Problem GS03-04 (Files)**
 Create a comma-delimited file with an int, a float, a character array (no spaces), and a character (in that order) on each of 10 rows.  Write a program to get in the data and then output it into a tab-delimited file.  (Do so without using the CSV module.  You will do that later.)  You may use the data below as the data for your file:
@@ -27,9 +27,16 @@ Create a comma-delimited file with an int, a float, a character array (no spaces
 9,0.12,taxation,y
 10,11.12,present,z
 ```
-**Problem GS03-05 ()**
+**Problem GS03-05 (REGEX, dictionary, files)**
 
-Some problem
+Expand Problem GS03-03 to first get data into the dictionary by reading from a given file (and put it in a dictionary).  Then, get data into the same dictionary.  Making sure to check that the keys (dates) are not being duplicated.  When the user is done collecing the data, write the data out to a comma separated file with date, separated by a comma and the different date-data pairs on separate lines (an example is shown below).
+
+```
+01/01/2000,1.2
+01/02/2010,2.3
+10/25/2011,3.4
+03/15/2009,4.5
+```
 
 **Problem GS03-06 (major program - earthquakes)**
 
