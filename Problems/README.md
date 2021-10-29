@@ -41,3 +41,13 @@ Goal Sheet Number | Topic(s) Covered
 * I am not sure that there are any new computer programming problems under the sun.  I do not know if you can copyright simple programming problems, and I do not claim to have any exclusive rights to even the problems that I think I came up with on my own.  I am sure most of the problems I list in this repo came from other sources in one form or another.  If I have infringed upon anybody's copyright, please let me know so that I might correct the oversight.
 
 * One last thing about this particular set of problems.  The problems (and thus the goal sheets) are probably going to be fluid in the beginning.  So for now (as of September 01, 2021), just look at the goal sheet you are currently working on.  (And if you look, you will see that the goal sheets are not complete.  Yet.)
+
+## Seismic Data files
+
+Seismic Data files are for the major project.  Or for use in any data driven exercise.  The data comes from [Kaggle](https://www.Kaggle.com).  The 2016 file just has seismic data for that year.  The larger file has data from 1965 through 2016.
+
+Data fields (comma separated) are listed below:
+
+`Date (M/D/YY), Time (24 hour clock including seconds), Latitude, Longitude, Type, Depth, Magnitude, Magnitude Type.`
+
+I am not sure what Magnitude Type means.  I do know that the two types of seismic events are Earthquake and Nuclear explosion.
