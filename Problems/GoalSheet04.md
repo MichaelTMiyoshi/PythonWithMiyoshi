@@ -14,7 +14,7 @@ Country abbreviation | List of cities in that country
 
 The program should give the user options and loop until the user chooses to exit.
 
-Note: It would be a good idea to use the [citieslatLongPopSample.csv](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Problems/citiesLatLongPopSample.csv)
+Note: It would be a good idea to use the [citieslatLongPopSample.csv](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Problems/citiesLatLongPopSample.csv) as a trial before you use the bigger file.  (I would suggest using small datasets when testing any program like this one that uses one or more large datasets.)
 
 **Problem GS04-02 (CSV data)**
 
