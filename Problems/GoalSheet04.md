@@ -2,7 +2,7 @@
 
 **Problem GS04-01 (Reading data from a file)  (double points)**
 
-Read the data from the population file (citiesLatLongPop.csv) for use in a lookup program.  The program will ask the user for one of several inputs to find the desired data.
+Read the data from the population file [citiesLatLongPop.csv](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Problems/citiesLatLongPop.csv) for use in a lookup program.  The program will ask the user for one of several inputs to find the desired data.
 
 Input | Output
 ------|-------
@@ -13,6 +13,8 @@ Population range | List of cities within given population range
 Country abbreviation | List of cities in that country
 
 The program should give the user options and loop until the user chooses to exit.
+
+Note: It would be a good idea to use the [citieslatLongPopSample.csv](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/blob/main/Problems/citiesLatLongPopSample.csv)
 
 **Problem GS04-02 (CSV data)**
 
