@@ -1,8 +1,18 @@
 # Goal Sheet 04
 
-**Problem GS04-01 (modules)**
+**Problem GS04-01 (Reading data from a file)  (double points)**
 
-Some problem
+Read the data from the population file (citiesLatLongPop.csv) for use in a lookup program.  The program will ask the user for one of several inputs to find the desired data.
+
+Input | Output
+------|-------
+City name | Population and Latitude and Longitude
+Latitude range | List of cities on that Latitude range
+Longitude range | List of cities on that Longitude range
+Population range | List of cities within given population range
+Country abbreviation | List of cities in that country
+
+The program should give the user options and loop until the user chooses to exit.
 
 **Problem GS04-02 (CSV data)**
 
