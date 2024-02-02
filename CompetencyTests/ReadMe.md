@@ -164,7 +164,7 @@ Demonstrate your competence in using classes for **both** of the following scena
 
 <hr>
 
-### CT – Lists
+### CT – Lists & Dictionaries
 
 Demonstrate your competence in using Lists (and loops) for each of the following scenarios:
 
