@@ -17,7 +17,7 @@ Two of the four projects must be data projects.  Other than that requirement, yo
 | Project | Description | Skills | Data |
 | ------- | ----------- | :----: | :--: |
 | Rock, Paper, Scissors | Play the game against the computer | I/O, branching, looping |   |
-
+| [Earthquakes](https://github.com/MichaelTMiyoshi/PythonWithMiyoshi/tree/main/Projects/Earthquakes) | Look at, display earthquake data | csv | X |
 
 At the time of this writing, there is only one project.  Earthquakes.  Eventually, I intend to create more large projects for students to choose from.  And after that, I hope that students will think of their own large projects.
 
