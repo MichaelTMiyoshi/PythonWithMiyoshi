@@ -15,11 +15,10 @@ Competency tests are writing code by hand.  Yes, you need to use pencil (or pen)
 ### CT – Variables, Constants, and Division
 
 Demonstrate your competence in using the math operators by creating a short code segment for **each** of the following scenarios, and give example numbers and answers:
-1. You have three ints called i1, i2, and i3 and you want to determine the remainders of the division of each of the numbers by 7.  Give three example numbers (at least one number must be less than 7) and the answers of all 3 remainders (modulus operation).  (Put the answers in comments after the divisions.)
-1. You have three ints called i1, i2, and i3 and you want to determine the value of each divided by the other.  Give three example numbers and the answers of all 6 divisions.  (Put the answers in comments after the divisions.)
-1. You have an int called i1 and a float called f1 and you want to determine what each divided by the other will be.  You want to make sure that when you divide by the float, you get a float answer and when you divide by the int, you get an int answer.  Give two example numbers and answers to both divisions.  Declare appropriate variables in which to store the answers.  (Put the answers in comments after the divisions.)  Make sure that the float has a decimal value not equal to zero (i.e. 3.2 not 3.0).
-1. You have an int called i1 and a float called f1 and you want to determine what each divided by the other will be.  But you want to make sure that when you divide by the float, you get an int answer and when you divide by the int, you get a float answer.  Give two example numbers and answers to both divisions.  Declare appropriate variables in which to store the answers.  (Put the answers in comments after the divisions.)  Make sure that the float has a decimal value not equal to zero (i.e. 3.2 not 3.0).
-
+1. You have three numbers called n1, n2, and n3 and you want to determine the remainders of the division of each of the numbers by 7.  Give three example numbers (at least one number must be less than 7) and the answers of all 3 remainders (modulus operation).  (Put the answers in comments after the divisions.) (Some example numbers: n1 = 3, n2 = 9, n3 = 12)
+1. You have three numberss called n1, n2, and n3 and you want to determine the value of each divided by the other.  Give three example numbers and the answers of all 6 divisions.  (Put the answers in comments after the divisions.) (Some example numbers: n1 = 3, n2 = 9, n3 = 12)
+1. You have two numbers called n1 and n2 and you want to determine what each divided by the other will be.  You want to make sure that when you divide by the n2, you get a float answer (a number with a decimal) and when you divide by the n1, you get an int answer (a number without a decimal).  Give two example numbers and answers to both divisions.  (Put the answers in comments after the divisions.)  Make sure that the float has a decimal value not equal to zero (i.e. 3.2 not 3.0). (Some example numbers: n1 = 3.7, n2 = 8)
+1. You have two numbers called n1 and n2 and you want to determine what each divided by the other will be (but the opposite of the previous question).  You want to make sure that when you divide by the n1, you get a float answer (a number with a decimal) and when you divide by the n2, you get an int answer (a number without a decimal).  Use the same two example numbers as above and give answers to both divisions.  (Put the answers in comments after the divisions.)  Make sure that the float has a decimal value not equal to zero (i.e. 3.2 not 3.0). (Some example numbers: n1 = 3.7, n2 = 8)
 <hr>
 
 ### CT – Branching
@@ -27,15 +26,8 @@ Demonstrate your competence in using the math operators by creating a short code
 <ol>
 <li>Demonstrate your competence in using the if-structure by creating an if-structure for <b>one</b> of the following scenarios:
 <ol type="A">
-<li>You have three floats called f1, f2, and f3 and want to find out which has the middle value.  Expected outputs: “f1 is the middle value”, “f2 is the middle value”, “f3 is the middle value”, “there is no middle value” or you can output the number instead of saying which variable is the middle</li>
-<li>You have three ints called i1, i2, and i3 and you want to see whether all, some, or none of the values is positive.  Expected outputs: “All the values are positive”, “Some of the values are positive”, “None of the values are positive”</li>
-<li>You have three bools called b1, b2, and b3.  You need to know what values of b1, b2, and b3 make the statements (b1 AND b2 OR b3) and (b1 OR b2 AND b3) equivalent (if any).</li>
-</ol></li>
-<li>Demonstrate your competence in using the switch-structure by creating a switch-structure for **one** of the following scenarios:
-<ol type="A">
-<li>You have an int input called iAns that can have 5 values with correct results.  Those values are 3, 5, 11, 13, and 17.  Output different responses for each correct value and give a chiding remark when an invalid response (or response other than the 5 correct responses) is given.</li>
-<li>You have a char input called cAns that can have 5 values with correct results.  Those values are A, b, Q, T, and x.  Output different responses for each correct value and give a chiding remark when an invalid response (or response other than the 5 correct responses) is given.</li>
-<li>You have a bool input called bAns.  Give appropriate responses for all possible bAns.</li></li>
+<li>You have three numbers called n1, n2, and n3 and want to find out which has the middle value.  Expected outputs: “n1 is the middle value”, “n2 is the middle value”, “n3 is the middle value”, “there is no middle value” or you can output the number instead of saying which variable is the middle</li>
+<li>You have three numbers called n1, n2, and n3 and you want to see whether all, some, or none of the values is positive.  Expected outputs: “All the values are positive”, “Some of the values are positive”, “None of the values are positive”</li>
 </ol>
 </ol>
 
@@ -76,6 +68,30 @@ Expected output (first line, then three other lines):
 
 <hr>
 
+### CT – Lists & Dictionaries
+
+Demonstrate your competence in using Lists (and loops) for each of the following scenarios:
+
+1.	Declare an integer List that will hold 100 numbers.  Initialize that List (using a loop) with the numbers 1 through 100.  (_**Note** to my students: If you choose to initialize the List without using a loop, the best score you can receive is 2.5/4._)
+1.	Declare a two-dimensional number List.  Use a nested loop to initialize the List to have the following values:  (_**Note** to my students: If you choose to initialize the two-dimensional List without using nested loops, the best score you can receive is 2.5/4._)
+```
+1	2	3	4	5
+2	4	6	8	10
+3	6	9	12	15
+4	8	12	16	20
+5	10	15	20	25
+```
+1.	Declare a dictionary.  Need a good dictionary question...  Sorry about the placeholder for now.
+```
+1	2	3	4	5
+2	4	6	8	10
+3	6	9	12	15
+4	8	12	16	20
+5	10	15	20	25
+```
+
+<hr>
+
 ### CT – Strings
 
 Demonstrate your competence in using strings for each of the following scenarios:
@@ -87,7 +103,7 @@ First name: Annabelle		Output: n
 First name: Jo			Output: error (or error message that you choose to show)
 ```
 
-2.	Create a String called sMName and initialize it to your middle name.  Output the first 5 characters using a loop and subscripts.  Make sure the loop does not try to access characters beyond the last char in your middle name.  (You will need a compound Boolean expression whether or not your name is less than 5 chars to make your answer more general, and to get all four points.  Loss of 1 point if a name shorter than 5 characters makes your loop give an out of bounds error.)  If you have no middle name, initialize the variable to “NoMiddleName” (with or without spaces).
+2.	Create a String called sMName and initialize it to your middle name.  Output the first 5 characters using a loop and subscripts.  Make sure the loop does not try to access characters beyond the last char in your middle name.  (You will need a branching statement to determine whether or not your name is less than 5 chars to make your answer more general, and to get all four points.  Loss of 1 point if a name shorter than 5 characters makes your loop give an out of bounds error.)  If you have no middle name, initialize the variable to “NoMiddleName” (with or without spaces).
 
 Expected outcome:
 ```
@@ -100,13 +116,39 @@ Middle name: Richard			Output: Richa
 
 <hr>
 
+### CT – File I/O
+11306	Use streams to manage input and output including files
+
+(Note: This competency tests may need to be updated.  Still mulling it over.)
+
+Demonstrate your competence in using data files by writing code for the following scenario:
+1.	You have data that you want to store and then retrieve.  You must decide what type of delimiting you would like to use (use comma- or tab-delimiting) to store the following data (The first row is not part of the data, just labels):
+```
+Name		Age	Height (in)	Weight (lb)	Phone #
+Loretta		18	66		130		425.844.1231
+Mike		16	68		145		425.844.1232
+Charles		17	72		160		425.844.1233
+Gracie		15	74		205		425.844.1234
+Anna		19	73		170		425.844.1235
+George		15	62		115		425.844.1236
+```
+[_**Note**: If you copy the above data, it has extra tabs so that it looks correct in this file._]
+
+a.	Write code to open a new file for writing.  The file name will be names.txt.  Use a loop to get data from the user (who would then input the above data).  End the loop by asking whether the user is done entering data.  Do not just use Strings for each piece of data.  Use the appropriate data types (name, phone: string; age, height, weight: int).  Tell what type of delimiting you are using (can be a comment in the written code) and output the data to the file accordingly.
+
+b.	Write out what **all** the above data would look like in your file.  Show tabs as \t or commas as commas (,).  Do not put in extra spaces.
+
+c.	Write code that will get the data from the data file (you may hardcode the filename in your code) and output it to the screen.  Get the username and phone number as strings and the other data as unsigned integers.  Use a loop that does not assume there are only 6 pieces of data.
+
+<hr>
+
 ### CT – Functions
 
 Demonstrate your competence in using functions by creating a function (or function signature) for **each** of the following scenarios:
 
-1.	Create a function signature for a function that will not return a value and takes 3 int arguments.
+1.	Create a function signature for a function that will not return a value and takes 3 number arguments.
 
-2.	Create a function that takes in two int values and returns the LOWER value.
+2.	Create a function that takes in two numbers and returns the LOWER value.
 
 Expected outcomes: 
 
@@ -119,7 +161,7 @@ Inputs | Output
 3.	Create a function that takes one String argument and returns a String which has the original String except that the first letter is capitalized and all the letters after spaces are also capitilized.  Use the following function signature: 
 
 ```
-static String Capitalize(string original)
+def Capitalize(original)
 ```
 
 Expected outcomes: 
@@ -129,16 +171,6 @@ Original string | Capitalized string
 the rain in spain | The Rain In Spain
 what is your quest? | What Is Your Quest?
 my name is INIGO! | My Name Is INIGO!
-
-4.	(Extra Credit)  Create a function that gets a double value and the number of decimal places (int) and returns a rounded value to that many decimal places.  (Remember that when rounding, 5 or more goes up, less than 5 goes down.  Do not use the rounding, ceiling, floor, or other functions.)
-
-Expected outcomes: 
-
-Inputs | Output
-----------: | -----:
-3.14159, 1  | 3.1
--7.89012, 3 | -7.890
-1.234567, 3 | 1.235
 
 <hr>
 
@@ -164,46 +196,6 @@ Demonstrate your competence in using classes for **both** of the following scena
 
 <hr>
 
-### CT – Lists & Dictionaries
-
-Demonstrate your competence in using Lists (and loops) for each of the following scenarios:
-
-1.	Declare an integer List that will hold 100 integers.  Initialize that List (using a loop) with the numbers 1 through 100.  (_**Note** to my students: If you choose to initialize the List without using a loop, the best score you can receive is 2.5/4._)
-1.	Declare a two-dimensional integer List.  Use a nested loop to initialize the List to have the following values:  (_**Note** to my students: If you choose to initialize the two-dimensional List without using nested loops, the best score you can receive is 2.5/4._)
-```
-1	2	3	4	5
-2	4	6	8	10
-3	6	9	12	15
-4	8	12	16	20
-5	10	15	20	25
-```
-
-<hr>
-
-### CT – File I/O
-11306	Use streams to manage input and output including files
-
-Demonstrate your competence in using data files by writing code for the following scenario:
-1.	You have data that you want to store and then retrieve.  You must decide what type of delimiting you would like to use (use comma- or tab-delimiting) to store the following data (The first row is not part of the data, just labels):
-```
-Name		Age	Height (in)	Weight (lb)	Phone #
-Loretta		18	66		130		425.844.1231
-Mike		16	68		145		425.844.1232
-Charles		17	72		160		425.844.1233
-Gracie		15	74		205		425.844.1234
-Anna		19	73		170		425.844.1235
-George		15	62		115		425.844.1236
-```
-[_**Note**: If you copy the above data, it has extra tabs so that it looks correct in this file._]
-
-a.	Write code to open a new file for writing.  The file name will be names.txt.  Use a loop to get data from the user (who would then input the above data).  End the loop by asking whether the user is done entering data.  Do not just use Strings for each piece of data.  Use the appropriate data types (name, phone: string; age, height, weight: int).  Tell what type of delimiting you are using (can be a comment in the written code) and output the data to the file accordingly.
-
-b.	Write out what **all** the above data would look like in your file.  Show tabs as \t or commas as commas (,).  Do not put in extra spaces.
-
-c.	Write code that will get the data from the data file (you may hardcode the filename in your code) and output it to the screen.  Get the username and phone number as strings and the other data as unsigned integers.  Use a loop that does not assume there are only 6 pieces of data.
-
-<hr>
-
-That is it for my intro competency tests.  Like I said, my students have access to these from the first time they open my book, so it is no surprise that I would have them available on the internet for all to see.
+That is it for my intro competency tests.  Like I said, my students have access to these from the first time they set foot in class, so may prepare from day one.
 
 To those taking the competency tests, have fun being your own compiler and your own printer.
