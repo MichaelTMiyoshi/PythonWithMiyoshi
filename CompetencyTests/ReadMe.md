@@ -119,10 +119,8 @@ Middle name: Richard			Output: Richa
 ### CT – File I/O
 11306	Use streams to manage input and output including files
 
-(Note: This competency tests may need to be updated.  Still mulling it over.)
-
 Demonstrate your competence in using data files by writing code for the following scenario:
-1.	You have data that you want to store and then retrieve.  You must decide what type of delimiting you would like to use (use comma- or tab-delimiting) to store the following data (The first row is not part of the data, just labels):
+1.	Suppose the data below is in a comma separated value (csv) file, including the row with the labels.  Use the csv module and read the data.  Then, saparate out one of the numeric pieces of data (age, height, or weight) and determine the average.  Make sure to store the numeric data in a list as numerica data (not string data).
 ```
 Name		Age	Height (in)	Weight (lb)	Phone #
 Loretta		18	66		130		425.844.1231
@@ -132,13 +130,7 @@ Gracie		15	74		205		425.844.1234
 Anna		19	73		170		425.844.1235
 George		15	62		115		425.844.1236
 ```
-[_**Note**: If you copy the above data, it has extra tabs so that it looks correct in this file._]
-
-a.	Write code to open a new file for writing.  The file name will be names.txt.  Use a loop to get data from the user (who would then input the above data).  End the loop by asking whether the user is done entering data.  Do not just use Strings for each piece of data.  Use the appropriate data types (name, phone: string; age, height, weight: int).  Tell what type of delimiting you are using (can be a comment in the written code) and output the data to the file accordingly.
-
-b.	Write out what **all** the above data would look like in your file.  Show tabs as \t or commas as commas (,).  Do not put in extra spaces.
-
-c.	Write code that will get the data from the data file (you may hardcode the filename in your code) and output it to the screen.  Get the username and phone number as strings and the other data as unsigned integers.  Use a loop that does not assume there are only 6 pieces of data.
+[_**Note**: The above data is separated by tabs in such a way that the columns line up and it looks nice on the screen._]
 
 <hr>
 
