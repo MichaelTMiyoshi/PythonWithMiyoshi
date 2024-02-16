@@ -81,7 +81,7 @@ Demonstrate your competence in using Lists (and loops) for each of the following
 4	8	12	16	20
 5	10	15	20	25
 ```
-1.	Create a dictionary with at least 5 states (keys) and their capitals (values).  Use a loop to output the data with the state followed by the capital separated by a colon.  Each entry in the dictionary must be output.  The output should look like the following:
+1.	Create a dictionary with at least 5 states (keys) and their capitals (values).  Use a loop to output the data with the state followed by the capital separated by a colon.  Each entry in the dictionary must be output (without quotes).  The output should look like the following:
 ```
 Washington: Olympia
 Oregon: Salem
