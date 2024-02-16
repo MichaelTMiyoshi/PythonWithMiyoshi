@@ -53,7 +53,7 @@ B.	Count (and output) by a given increment (iIncrement) from a given start point
 
 2.  Demonstrate your competence in using the while loop by creating a while loop for one of the following scenarios:
 
-A.	Create an error-checking loop that makes sure the user gives a positive input into an int called iNum.
+A.	Create an error-checking loop that makes sure the user gives a positive input into a number called iNum.
 
 B.	Output the numbers from 1 through 100 (inclusive) skipping 30, 40, and 50.  Use only one loop.  Put tabs between the numbers and only put 6 numbers on each line.
 
