@@ -72,8 +72,8 @@ Expected output (first line, then three other lines):
 
 Demonstrate your competence in using Lists (and loops) for each of the following scenarios:
 
-1.	Declare an integer List that will hold 100 numbers.  Initialize that List (using a loop) with the numbers 1 through 100.  (_**Note** to my students: If you choose to initialize the List without using a loop, the best score you can receive is 2.5/4._)
-1.	Declare a two-dimensional number List.  Use a nested loop to initialize the List to have the following values:  (_**Note** to my students: If you choose to initialize the two-dimensional List without using nested loops, the best score you can receive is 2.5/4._)
+1.	Declare a List that will hold 100 numbers.  Initialize that List (using a loop) with the numbers 1 through 100.  (_**Note** to my students: If you choose to initialize the List without using a loop, the best score you can receive is 2.5/4._)
+1.	Declare a two-dimensional List of numbers.  Use a nested loop to initialize the List to have the following values:  (_**Note** to my students: If you choose to initialize the two-dimensional List without using nested loops, the best score you can receive is 2.5/4._)
 ```
 1	2	3	4	5
 2	4	6	8	10
