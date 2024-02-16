@@ -81,13 +81,13 @@ Demonstrate your competence in using Lists (and loops) for each of the following
 4	8	12	16	20
 5	10	15	20	25
 ```
-1.	Declare a dictionary.  Need a good dictionary question...  Sorry about the placeholder for now.
+1.	Create a dictionary with at least 5 states (keys) and their capitals (values).  Use a loop to output the data with the state followed by the capital separated by a colon.  Each entry in the dictionary must be output.  The output should look like the following:
 ```
-1	2	3	4	5
-2	4	6	8	10
-3	6	9	12	15
-4	8	12	16	20
-5	10	15	20	25
+Washington: Olympia
+Oregon: Salem
+Idaho: Boise
+Montana: Helena
+California: Sacramento
 ```
 
 <hr>
