@@ -1,0 +1,1 @@
+This folder contains Comma Separated Value files (.csv) of various datasets.  These datasets are initially just raw data.  Some of these files may need to be massaged to be useable in Python programs.
